@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: rabbitmq-amqp-tutorials
+  profiles:
+    active: usage_message
+logging:
+  level:
+    org: ERROR
+tutorial:
+  client:
+    duration: 5000 # run for 5 seconds
