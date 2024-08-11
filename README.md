@@ -16,6 +16,8 @@ The project is organized into tutorials. Each tutorial demonstrates different as
 
 ## Tutorial 1: Hello World
 
+![Hello World](./assets/tut1/image.png)
+
 This tutorial demonstrates a simple direct communication setup between a publisher and a consumer. 
 
 The publisher will send 5 messages, one every second, to the consumer.
